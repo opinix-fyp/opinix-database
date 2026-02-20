@@ -1,7 +1,5 @@
 # OPINIX Database Layer
 
-This repository contains the MySQL database setup for OPINIX.
-
 ## Files
 
 - admin_setup.sql  
